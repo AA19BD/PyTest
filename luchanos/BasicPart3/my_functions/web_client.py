@@ -39,5 +39,5 @@ class AvitoClient:
         return datetime.fromtimestamp(user_action_time - user_time_diff)
 
 
-avito_client = AvitoClient(url='http://www.avito.ru')
-print(avito_client.get_user_last_action_time(177068588))
+# avito_client = AvitoClient(url='http://www.avito.ru')
+# print(avito_client.get_user_last_action_time(177068588))
