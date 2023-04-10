@@ -1,6 +1,6 @@
 import pytest
 
-from luchanos.BasicPart1.utils import division
+from PyTest.luchanos.BasicPart1.utils import division
 
 
 @pytest.mark.parametrize("a, b, expected_result", [(10, 2, 5),

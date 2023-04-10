@@ -1,6 +1,6 @@
 import pytest
 
-from luchanos.BasicPart2.my_functions.file_workers import read_from_file
+from PyTest.luchanos.BasicPart2.my_functions.file_workers import read_from_file
 
 
 def create_test_data(test_data):
